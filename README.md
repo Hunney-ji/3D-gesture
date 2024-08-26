@@ -3,8 +3,11 @@ This React app integrates hand gesture recognition with 3D model interaction. It
 
 ## Features:-
  Hand Gesture Recognition: Detects hand gestures using TensorFlow.js Handpose model.
- Zoom Control: Adjusts zoom level based on the distance between thumb and index finger.
- 3D Model Interaction: Rotates a 3D model based on hand movements.
+ Zoom Control: Adjusts zoom level based on the distance between thumb and index finger. (not yet applied because of lagging)
+ 3D Model Interaction: Rotates a 3D model based on hand movements(simple hand✋).
+
+##Important Note:-
+ Make sure your should be in the camera frame , and try to maintain a reasonable distance between your hand and camera
 
 
 ## Install Dependencies
