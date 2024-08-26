@@ -7,7 +7,7 @@ This React app integrates hand gesture recognition with 3D model interaction. It
  3D Model Interaction: Rotates a 3D model based on hand movements(simple hand✋).
 
 ## Important Note:-
- Make sure your should be in the camera frame , and try to maintain a reasonable distance between your hand and camera
+ Make sure your hand should be in the camera frame , and try to maintain a reasonable distance between your hand and camera
 
 
 ## Install Dependencies
